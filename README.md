@@ -1,6 +1,6 @@
 ## Web server. primeros pasos con Express
 
-No olvidar istalar las dependencias
+No olvidar instalar las dependencias
 
 ``` npm install```
 
